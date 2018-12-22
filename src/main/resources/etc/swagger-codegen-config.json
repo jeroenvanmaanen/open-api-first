@@ -1,0 +1,4 @@
+{
+  "basePackage": "org.sollunae.openapifirst.rest",
+  "configPackage": "org.sollunae.openapifirst.rest.config"
+}
